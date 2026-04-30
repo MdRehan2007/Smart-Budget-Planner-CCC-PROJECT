@@ -15,11 +15,13 @@ Categorize expenses (Food, Travel, Rent, etc.)
 Budget planning and tracking
 Dashboard with charts and insights
 Real-time expense monitoring
+
 🔹 Tech Stack
 Frontend: React.js / HTML / CSS
 Backend: Node.js / Express.js (or Django if your project uses it)
 Database: MongoDB / PostgreSQL
 Others: Chart libraries for visualization
+
 🔹 How It Works (Workflow)
 User registers and logs in
 Adds income and expenses
@@ -27,4 +29,3 @@ System stores data in database
 Dashboard shows spending insights
 User sets budget and tracks savings
 
-dashboard
